@@ -1,0 +1,26 @@
+{
+  "name": "11-js-mini-games",
+  "version": "1.0.0",
+  "description": "![Screenshot](fun.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-knight23/11-js-mini-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mk-knight23/11-js-mini-games/issues"
+  },
+  "homepage": "https://github.com/mk-knight23/11-js-mini-games#readme",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
