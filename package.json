@@ -1,20 +1,34 @@
 {
   "name": "11-js-mini-games",
-  "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "description": "Arcade portal with multiple JavaScript mini-games: Snake, Pong, Memory, and more.",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "keywords": [
+    "games",
+    "arcade",
+    "javascript",
+    "snake",
+    "pong",
+    "memory",
+    "template"
+  ],
+  "author": "Kazi Musharraf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-knight23/11-js-mini-games.git"
+  },
+  "homepage": "https://11-js-mini-games.vercel.app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "framer-motion": "^11.5.4",
-    "lucide-react": "^0.441.0",
-    "clsx": "^2.1.1",
-    "tailwind-merge": "^2.5.2"
+    "lucide-react": "^0.441.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

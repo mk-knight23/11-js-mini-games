@@ -1,6 +1,13 @@
-# 5-FUN
-# FIVE JAVASCRIPT PROJECTS
+# 11-js-mini-games
+🎮 Arcade portal with JavaScript mini-games.
+[![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mk-knight23/11-js-mini-games)
 
-# DEMO :  https://mk-knight23.github.io/5-FUN
+## Games
+- 🐍 Snake  - 🏓 Pong  - 🧠 Memory  - ❌ Tic-Tac-Toe  - 🧩 2048
 
-![Screenshot](fun.png)
+## Quick Start
+```bash
+git clone https://github.com/mk-knight23/11-js-mini-games.git && cd 11-js-mini-games && npm i && npm run dev
+```
+## License
+MIT
