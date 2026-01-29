@@ -131,6 +131,13 @@ Deploy the single `index.html` file anywhere:
 
 ---
 
+### Live Demo
+- GitHub Pages: <https://mk-knight23.github.io/26-JS-Mini-Games/>
+- Vercel: [Deploy your own](https://vercel.com/new)
+- Netlify: [Deploy your own](https://app.netlify.com/start)
+
+---
+
 ## 📝 Design Notes (V2)
 
 ### Intentional Quirk: The "Under Construction" GIF
